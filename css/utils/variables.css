@@ -1,17 +1,19 @@
 :root {
-    --prymaryFont: 'Montserrat', sans-serif;
+  --prymaryFont: "Montserrat", sans-serif;
 
-    --mainTextColor: #111;
-    --secondaryTextColor: #fff;
-    --mainBgColor: #fafafa;
-    --secondaryBgColor: #1e1823;
-    --heroBg: rgba(17, 17, 17, 0.6);
-    --accentColor: #fd9222;
-    --wightCardColor: #fff;
-    --btnHover: #fcf1e0;
-    --borderColor: rgba(17, 17, 17, 0.1);
-    --borderHoverColor: rgba(253, 146, 34, 0.1);
-    --reviewsTextColor: rgba(17, 17, 17, 0.7);
-    --benefitsTextColor: rgba(255, 255, 255, 0.7);
-    --borderIconColor: rgba(255, 255, 255, 0.5);
-  }
+  --mainTextColor: #111;
+  --secondaryTextColor: #fff;
+  --mainBgColor: #fafafa;
+  --secondaryBgColor: #1e1823;
+  --aboutBgColor: #fff;
+  --heroBg: rgba(17, 17, 17, 0.6);
+  --accentColor: #fd9222;
+  --wightCardColor: #fff;
+  --btnHover: #fcf1e0;
+  --borderColor: rgba(17, 17, 17, 0.1);
+  --borderHoverColor: rgba(253, 146, 34, 0.1);
+  --productsTextColor: rgba(17, 17, 17, 0.7);
+  --reviewsTextColor: rgba(17, 17, 17, 0.7);
+  --benefitsTextColor: rgba(255, 255, 255, 0.7);
+  --borderIconColor: rgba(255, 255, 255, 0.5);
+}
